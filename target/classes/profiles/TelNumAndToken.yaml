@@ -1,0 +1,5 @@
+#获取用户token,如果是一个新的手机号，在ucenter.user_passport_user表中没有数据，就需要通过抓包获取token，存储到这个文件中。
+tel18600228767: UCENTER-af171685-269b-41be-b6ba-0fc6f0f95b48
+telNum : 18600228767
+
+{telNum: '18610413790', token: UCENTER-cc062b83-848a-4e85-94d8-32e68b32cff6}

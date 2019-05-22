@@ -1,0 +1,103 @@
+#登录url
+testLoginUrl : http://carlife-test.zhidaohulian.com/carlife/login
+testGZHLogin : http://test-account.zhidaohulian.com/doLogin
+productLoginUrl : http://api.zhidaohulian.com/carlife/login
+sendSMS : http://test-account.zhidaohulian.com/send
+
+#服务大厅-ServiceCenter
+#获取活动列表信息
+SCGetActivityList : /activity/getActivityList
+#获取车辆列表
+SCGetCarList : /car/getCarList
+#获取所有品牌信息，通过字母排序
+SCGetAllInfoGroupByLetter : /car/brand/getAllInfoGroupByLetter
+#通过品牌ID查询⻋型信息通过⼚商聚类
+SCGetModelFirmGroupByBrand : /car/brand/getModelFirmGroupByBrand
+#车型-车款-通过⻋型ID查询⻋款信息通过年款聚类
+SCGetUnitYearGroupByModel : /car/unit/getUnitYearGroupByModel
+
+
+#----------------------加油卡充值-FuelCard---------------------------------
+#H5-活动查询
+FCgetActivityList : /activity/getActivityList
+#H5-获取用户默认卡片-车机接口
+FCgetDefaultCardCheJi : oilCard/getDefaultCardCheJi
+#H5-加油卡价格配置
+FCpriceList : /oilCard/priceList
+#H5-加油卡查询-车机接口
+FCqueryOilCardCheJi : /oilCard/queryOilCardCheJi
+#H5-加油卡验证
+FCoilCardValidation : /oilCard/oilCardValidation
+#H5-加油卡添加-车机接口
+FCaddOilCardCheJi : /oilCard/addOilCardCheJi
+#H5-更新默认加油卡-车机接口
+FCupdateDefaultOilCardCheJi : /oilCard/updateDefaultOilCardCheJi
+#H5-加油卡删除-车机接口
+FCdeleteOilCardCheJi : /oilCard/deleteOilCardCheJi
+
+#----------------------洗车CarWash-------------------
+#活动接口
+QZXCWAUgetActivityList : /activity/getActivityList
+#洗车商户列表
+QZXCWAUgetMerchantList : /merchant/getMerchantList
+#洗车门店详情列表
+QZXCWAUgetCarWashDetail : /merchant/getCarWashDetail
+#搜索洗车商户列表
+QZXCWAUsearchMerchantList : /merchant/searchMerchantList
+#获取搜索记录列表
+QZXCWAUgetSearchHistory : /searchHistory/getSearchHistory
+#组合商品列表
+QZXCWAUrecommendList : /assemble/recommendList
+
+#----------------------加油站商户端APP接口PrivilegeRefuelMerchant--------------------
+#商户-登陆
+PRMloginByPassword : /admin/loginByPassword
+#商户-获取加油站列表
+PRMmerchantList : /admin/merchantList
+#版本信息-获取指定版本信息
+PRMversionDetail : /version/versionDetail
+#版本信息-获取最新版本
+PRMlatestVersion : /version/latestVersion
+#语言设置-加油站
+PRMupdateMerchantId : /voice/updateMerchantId
+#语言设置-推送registrationId
+PRMsetRegistrationId : /voice/setRegistrationId
+#语言设置-修改
+PRMupdateByUser : /voice/updateByUser
+#语言设置-获取
+PRMconfig : /voice/config
+#订单-列表
+PRMlist : /order/list
+#商户-退出登陆
+PRMdownline : /admin/downline
+#----------------------违章查询接口QueryTrafficViolations--------------------
+#违章查询-添加车辆-车机接口
+QTVaddAndQueryCheJiPeccancyInfo : /peccancy/addAndQueryCheJiPeccancyInfo
+#违章查询-车辆列表-车机接口
+QTVqueryCheJiCarlist : /peccancy/queryCheJiCarlist
+#违章查询-查询并更新车辆违章信息--车机接口
+QTVqueryAndUpdateCheJiPeccancyInfo : /peccancy/queryAndUpdateCheJiPeccancyInfo
+#违章查询-删除车辆
+QTVdeleteCar : /peccancy/deleteCar
+#----------------------罚单代缴接口PaymentOfTicket--------------------
+#查询罚单详情接口
+POTdetail : /ticket/detail
+
+
+#-----------------------------洗车保养---------------------------------
+#搜索洗车商户列表
+WUSearchMerchantList : /merchant/searchMerchantList
+#活动接口
+WUGetActivityList : /activity/getActivityList
+#获取洗车商户列表
+WUGetMerchantList : /merchant/getMerchantList
+#组合商品-列表
+WURecommendList : /assemble/recommendList
+#组合商品-列表
+WUGoodsDetail : /goods/detail
+#组合商品-库存减（微服务）
+WUReduceStock : /stock/reduceStock
+#组合商品-库存还原（微服务）
+WURevertStock : /stock/revertStock
+#组合商品-查询可替换商品列表
+WUGetAlternativeList : /goods/getAlternativeList

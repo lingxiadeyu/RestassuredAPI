@@ -1,0 +1,11 @@
+#----------特权加油商户端APP用户信息---------
+account3790 :
+  phone : 18610413790
+  passwd : 123456
+account8767 :
+  phone : 18600228767
+  password : 123456
+#----------后服务端用户信息----------
+userId3790 : 467669555418894336
+userId8767 : 467669523626070016
+testLoginpara8767: eyJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjQ2NzY2OTUyMzYyNjA3MDAxNiwiZXhwaXJlIjoxNTQxNzQ5NTA3MzI2LCJpc3MiOiJwYXNzcG9ydC56aGlkYW9hdXRvLmNvbSJ9.AAfgec1fMVDAEBeJgC8rcasBlLfezua8vturJShIpG4

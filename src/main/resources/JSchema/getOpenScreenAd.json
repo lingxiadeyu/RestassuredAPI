@@ -1,0 +1,130 @@
+{
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "time": {
+      "$id": "/properties/time",
+      "type": "integer",
+      "title": "The Time Schema ",
+      "default": 0,
+      "examples": [
+        1523522714916
+      ]
+    },
+    "success": {
+      "$id": "/properties/success",
+      "type": "boolean",
+      "title": "The Success Schema ",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "code": {
+      "$id": "/properties/code",
+      "type": "null",
+      "title": "The Code Schema ",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "info": {
+      "$id": "/properties/info",
+      "type": "null",
+      "title": "The Info Schema ",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "body": {
+      "$id": "/properties/body",
+      "properties": {
+        "ppctPicPkMdl": {
+          "$id": "/properties/body/properties/ppctPicPkMdl",
+          "type": "null",
+          "title": "The Ppctpicpkmdl Schema ",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "createTime": {
+          "$id": "/properties/body/properties/createTime",
+          "type": "null",
+          "title": "The Createtime Schema ",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "manageId": {
+          "$id": "/properties/body/properties/manageId",
+          "type": "null",
+          "title": "The Manageid Schema ",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "picGoUrl": {
+          "$id": "/properties/body/properties/picGoUrl",
+          "type": "string",
+          "title": "The Picgourl Schema ",
+          "default": "",
+          "examples": [
+            "https://m.nowpre.etongdai.org/static/christmas/index.html"
+          ]
+        },
+        "picId": {
+          "$id": "/properties/body/properties/picId",
+          "type": "null",
+          "title": "The Picid Schema ",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "picPixel": {
+          "$id": "/properties/body/properties/picPixel",
+          "type": "null",
+          "title": "The Picpixel Schema ",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "picSize": {
+          "$id": "/properties/body/properties/picSize",
+          "type": "null",
+          "title": "The Picsize Schema ",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "picTitle": {
+          "$id": "/properties/body/properties/picTitle",
+          "type": "string",
+          "title": "The Pictitle Schema ",
+          "default": "",
+          "examples": [
+            "开屏准生产测试"
+          ]
+        },
+        "picUrl": {
+          "$id": "/properties/body/properties/picUrl",
+          "type": "string",
+          "title": "The Picurl Schema ",
+          "default": "",
+          "examples": [
+            "http://www.nowpre.etongdai.org/u/cms/www/201711/30162151cqrz.jpg"
+          ]
+        }
+      }
+    }
+  }
+}

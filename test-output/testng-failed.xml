@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="cfw-test">
+    <classes>
+      <class name="com.yixin.test.PrivilegeRefuelMerchant">
+        <methods>
+          <include name="testPrivilegeRefuelMerchant010"/>
+        </methods>
+      </class> <!-- com.yixin.test.PrivilegeRefuelMerchant -->
+    </classes>
+  </test> <!-- cfw-test -->
+</suite> <!-- Failed suite [Default Suite] -->

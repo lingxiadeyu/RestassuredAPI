@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e69fb799-c87f-42b7-ad39-e034df1750b5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yixin/util/SignTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yixin/util/SignTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/profiles/API_para.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/profiles/API_para.yaml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="916929213">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="46" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="27" />
+          <entry key="html" value="3" />
+          <entry key="java" value="261" />
+          <entry key="xml" value="9" />
+          <entry key="yaml" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="27" />
+          <entry key="HTML" value="3" />
+          <entry key="JAVA" value="261" />
+          <entry key="XML" value="9" />
+          <entry key="YAML" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="43" />
+          <entry key="java" value="10799" />
+          <entry key="xml" value="515" />
+          <entry key="yaml" value="1143" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10799" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="XML" value="515" />
+          <entry key="YAML" value="1143" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cfw-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/profiles/API_url.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="248" column="44" selection-start-line="248" selection-start-column="44" selection-end-line="248" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/ServiceCenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/CarWash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3789">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/FuelCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-511">
+              <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/PaymentOfTicket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1421">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/PrivilegeRefuel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/PrivilegeRefuelMerchant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/QueryTrafficViolations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/CarMaintenance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>testng</find>
+      <find>decoderConfig</find>
+      <find>18600228767</find>
+      <find>&quot;testLoginpara&quot;</find>
+      <find>QTVqueryCheJiCarlist</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>testLoginpara</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/ReadYamlConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/JSONSchameValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/testing.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/CarWashAndUpKeep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/PrivilegeRefuel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/GetToken.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/business/CWAUDataDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/DataBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/PrivilegeRefuelMerchantBusiness/PRMBDataDependency.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/testreport/ExtentTestNGIReporterListener.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/PrivilegeRefuelMerchant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/creatSign.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/APPLoginCreateSign.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/business/QZXCWAUDataDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/business/DataDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/WriteYamlConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/business/RunTools.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/profiles/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/QZXCarWashAndUpkeep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/CarWashAndUpkeep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/dependency/QZXCWAUDataDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/dependency/DataDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/PrivilegeRefuelMerchantBusiness/PRMBRunTools.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/profiles/TelNumAndToken.yaml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/CreateSign.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/dependency/CarMaintenanceDenpendency.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/CarMaintenance.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/ServiceCenter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/profiles/API_url.yaml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/ReadConfigFiles.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/WriteConfigFile.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/profiles/Account.yaml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/TestPuppy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/TestPuppyTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/GetTestPuppyone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/GetTestPuppytwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/dependency/CarWashDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/dependency/FuelCardDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/SignUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/CarWash.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/PaymentOfTicket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/QueryTrafficViolations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/Account.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/test/FuelCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/SignTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/profiles/API_para.yaml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/yixin/com/yixin/LearnRestassured/LearnRestassured.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/RunTools.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yixin/util/ReadYamlConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cfw-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cfw-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cfw-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cfw-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="io.rest-assured:rest-assured:3.0.6" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cfw-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="io.rest-assured:rest-assured:3.0.6" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="org.codehaus.groovy:groovy-xml:2.4.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="19" />
+    <option name="width" value="1362" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yixin" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yixin" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cfw-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cfw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yixin" type="462c0819:PsiDirectoryNode" />
+              <item name="testreport" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548412044804" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.QueryTrafficViolations.testQueryTrafficViolations00102">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentOfTicket.testPaymentOfTicket00102" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cfw-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yixin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yixin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yixin.test.PaymentOfTicket" />
+      <option name="METHOD_NAME" value="testPaymentOfTicket00102" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTrafficViolations.testQueryTrafficViolations00101" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cfw-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yixin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yixin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yixin.test.QueryTrafficViolations" />
+      <option name="METHOD_NAME" value="testQueryTrafficViolations00101" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTrafficViolations.testQueryTrafficViolations00102" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cfw-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yixin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yixin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yixin.test.QueryTrafficViolations" />
+      <option name="METHOD_NAME" value="testQueryTrafficViolations00102" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTrafficViolations.testQueryTrafficViolations00107" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cfw-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yixin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yixin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yixin.test.QueryTrafficViolations" />
+      <option name="METHOD_NAME" value="testQueryTrafficViolations00107" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTrafficViolations.testQueryTrafficViolations003" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cfw-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yixin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yixin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yixin.test.QueryTrafficViolations" />
+      <option name="METHOD_NAME" value="testQueryTrafficViolations003" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations003" />
+      <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations00107" />
+      <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations00101" />
+      <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations00102" />
+      <item itemvalue="TestNG.PaymentOfTicket.testPaymentOfTicket00102" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations00102" />
+        <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations00101" />
+        <item itemvalue="TestNG.PaymentOfTicket.testPaymentOfTicket00102" />
+        <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations003" />
+        <item itemvalue="TestNG.QueryTrafficViolations.testQueryTrafficViolations00107" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69fb799-c87f-42b7-ad39-e034df1750b5" name="Default" comment="" />
+      <created>1531812908708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531812908708</updated>
+      <workItem from="1536162901424" duration="26000" />
+      <workItem from="1536162969790" duration="459000" />
+      <workItem from="1536163475723" duration="101000" />
+      <workItem from="1536196520148" duration="5121000" />
+      <workItem from="1536283790096" duration="9059000" />
+      <workItem from="1536299863202" duration="26731000" />
+      <workItem from="1536566349319" duration="7047000" />
+      <workItem from="1536741782271" duration="13000" />
+      <workItem from="1536837722175" duration="11424000" />
+      <workItem from="1537155546492" duration="4763000" />
+      <workItem from="1537500140727" duration="10734000" />
+      <workItem from="1537860325936" duration="44965000" />
+      <workItem from="1538205791399" duration="9334000" />
+      <workItem from="1539048944640" duration="505000" />
+      <workItem from="1539049941611" duration="220000" />
+      <workItem from="1539050717073" duration="1656000" />
+      <workItem from="1539052507293" duration="1816000" />
+      <workItem from="1539054763559" duration="1771000" />
+      <workItem from="1539064828599" duration="86000" />
+      <workItem from="1539067635272" duration="328000" />
+      <workItem from="1542249269499" duration="206000" />
+      <workItem from="1543752793592" duration="341000" />
+      <workItem from="1543799674997" duration="1189000" />
+      <workItem from="1544410556353" duration="10478000" />
+      <workItem from="1544752492628" duration="597000" />
+      <workItem from="1544754292384" duration="737000" />
+      <workItem from="1544756777220" duration="15359000" />
+      <workItem from="1546413761187" duration="938000" />
+      <workItem from="1546482004594" duration="3000" />
+      <workItem from="1547798622953" duration="933000" />
+      <workItem from="1548406742713" duration="4126000" />
+      <workItem from="1548424068307" duration="1339000" />
+      <workItem from="1548639855267" duration="1752000" />
+      <workItem from="1551175670994" duration="632000" />
+      <workItem from="1552271594818" duration="982000" />
+      <workItem from="1553679338797" duration="245000" />
+      <workItem from="1553741384688" duration="594000" />
+      <workItem from="1553755226437" duration="144000" />
+      <workItem from="1558518777218" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FuelCard_testFuelCard006 - 2018.11.05 at 10h 11m 19s.xml">
+      <configuration name="FuelCard.testFuelCard006" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CarWash_testQZXCarWashAndUpkeep001 - 2018.11.05 at 10h 21m 49s.xml">
+      <configuration name="CarWash.testQZXCarWashAndUpkeep001" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QueryTrafficViolations_testQueryTrafficViolations003 - 2018.11.05 at 10h 29m 25s.xml">
+      <configuration name="QueryTrafficViolations.testQueryTrafficViolations003" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QueryTrafficViolations_testQueryTrafficViolations00107 - 2018.11.05 at 10h 29m 44s.xml">
+      <configuration name="QueryTrafficViolations.testQueryTrafficViolations00107" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QueryTrafficViolations_testQueryTrafficViolations00101 - 2018.11.05 at 10h 30m 10s.xml">
+      <configuration name="QueryTrafficViolations.testQueryTrafficViolations00101" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QueryTrafficViolations_testQueryTrafficViolations00102 - 2018.11.05 at 10h 31m 37s.xml">
+      <configuration name="QueryTrafficViolations.testQueryTrafficViolations00102" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QueryTrafficViolations_testQueryTrafficViolations003 - 2018.11.05 at 10h 43m 41s.xml">
+      <configuration name="QueryTrafficViolations.testQueryTrafficViolations003" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PaymentOfTicket_testPaymentOfTicket00102 - 2018.11.05 at 10h 44m 12s.xml">
+      <configuration name="PaymentOfTicket.testPaymentOfTicket00102" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QueryTrafficViolations_testQueryTrafficViolations00101 - 2018.11.05 at 10h 50m 38s.xml">
+      <configuration name="QueryTrafficViolations.testQueryTrafficViolations00101" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QueryTrafficViolations_testQueryTrafficViolations00102 - 2018.11.05 at 10h 52m 36s.xml">
+      <configuration name="QueryTrafficViolations.testQueryTrafficViolations00102" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="176859000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4885246" visible="true" weight="0.21860817" />
+      <window_info id="Structure" order="1" sideWeight="0.5106383" side_tool="true" weight="0.21104388" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021008" side_tool="true" weight="0.20196672" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32649574" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6923077" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47008547" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.21346469" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.5993432" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.60755336" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32649574" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32840723" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49924356" weight="0.32840723" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="588" selection-start-line="588" selection-end-line="588" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/DynamicGraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/business/CWAUDataDependency.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/CarWashAndUpkeep.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/net/DualStackPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/specification/RequestSenderOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/internal/TestSpecificationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="252" column="32" selection-start-line="252" selection-start-column="32" selection-end-line="252" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/config/Config.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/config/ConnectionConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/config/RestAssuredConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="43" selection-end-line="70" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/config/EncoderConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/config/DecoderConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2840">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/NameValuePair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/message/BasicNameValuePair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/profiles/TelNumAndToken.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/TestPuppy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/GetTestPuppytwo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/GetTestPuppyone.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/dependency/CarMaintenanceDenpendency.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/dependency/CarWashDependency.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/PrivilegeRefuelMerchantBusiness/PRMBRunTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/PrivilegeRefuelMerchantBusiness/PRMBDataDependency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/CreateSign.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/WriteYamlConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/WriteConfigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/profiles/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/testreport/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/dependency/FuelCardDependency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/rest-assured/rest-assured/3.0.6/rest-assured-3.0.6.jar!/io/restassured/RestAssured.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/com/yixin/LearnRestassured/LearnRestassured.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="94" column="46" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/profiles/Account.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/SignTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="137" column="65" selection-start-line="137" selection-start-column="65" selection-end-line="137" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/SignUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="122" column="38" selection-start-line="122" selection-start-column="38" selection-end-line="122" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="204" selection-start-line="204" selection-end-line="206" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/JSONSchameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/ReadConfigFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="48" selection-start-line="17" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/ReadYamlConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yixin/util/RunTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1179">
+          <caret line="145" column="42" selection-start-line="145" selection-start-column="42" selection-end-line="145" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/profiles/API_para.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/profiles/API_url.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="248" column="44" selection-start-line="248" selection-start-column="44" selection-end-line="248" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/ServiceCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/QueryTrafficViolations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/CarMaintenance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/CarWash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3789">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/FuelCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/PaymentOfTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1421">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/PrivilegeRefuel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/yixin/test/PrivilegeRefuelMerchant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cfw-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,294 @@
+#---------------------------蘑菇智行APP登录--------------------
+testLoginpara8767 :
+  deviceId : "PBVGK16918902121"
+  source : "1"
+  locType : "2"
+  appVersionCode : "10"
+  cityName : "北京市"
+  pixels : "1080*1794"
+  os : "Android"
+  lng : "116.411389"
+  cityCode : "010"
+  hardWareModel : "EVA-AL00"
+  androidId : "6e0bff5173c9fc75"
+  appVersion : "2.0.0.14"
+  phone : "18600228767"
+  passwd : "123456"
+  imei : "869158020526238"
+  adCode : "110105"
+  osVersion : "7.0"
+  apSsid : "qinzhenxia-test"
+  netType : "WIFI"
+  lat : "39.9683"
+  apMac : "62:f6:77:ac:c8:e4"
+
+
+#----------------------------加油卡充值-FuelCard---------------
+#H5-加油卡价格配置
+FCpriceList :
+  cardType : 1 #获取中石化加油卡
+FCpriceList01 :
+  cardType : 2 #获取中石油加油卡
+#H5-加油卡验证
+FCoilCardValidation :
+  cardNo : 1000111234567890123 #加油卡号
+  cardType : 1 #加油卡类型（1.中石化  2.中石油）
+#H5-加油卡添加-车机接口,中石化
+FCaddOilCardCheJi :
+  cardNo: "1000111472583690456"
+  cardType: 1
+  cityName: "北京市"
+  cardUserName: ""
+  mobile: ""
+  defaultFlag: "N"
+#H5-加油卡添加-车机接口，中石油
+FCaddOilCardCheJi01 :
+  cardNo: "9098765432112345"
+  cardType: 2
+  cityName: "天津市"
+  cardUserName: ""
+  mobile: ""
+  defaultFlag: "N"
+#----------------------------洗车CarWash--------------------------
+#活动接口,洗车
+QZXCWAUgetActivityList :
+  businessLine : 0 #业务线：0洗车，1保养，2罚单代缴，3服务大厅
+  showPosition : 0 #展示位置：0顶部，1中间，2底部，3左侧，4右侧
+  cityCode : 0 #城市编码 0表示全国
+  size : 5
+
+#洗车商户列表，从服务大厅查看洗车列表，一页显示10条
+QZXCWAUgetMerchantList :
+ pageNumber: 1 #页数
+ pageSize : 10 #每页条数
+ longitude : 116.328642 #当前位置的经度
+ latitude : 39.935871 #当前位置的纬度
+ homeLongitude : #家经度
+ homeLatitude : #家纬度
+ companyLongitude : #公司经度
+ companyLatitude : #公司纬度
+ cityCode : 110100 #城市代码
+ channel : 1 #渠道 1 蘑菇APP、4易车APP、5蘑菇养车公众号、11易鑫车主服务公众号、12懒人用车公众号、13易鑫车服公众号
+
+#洗车商户列表，进入洗车列表一页显示20条
+QZXCWAUgetMerchantList01 :
+ pageNumber: 1 #页数
+ pageSize : 20 #每页条数
+ longitude : 116.328642 #当前位置的经度
+ latitude : 39.935871 #当前位置的纬度
+ homeLongitude : #家经度
+ homeLatitude : #家纬度
+ companyLongitude : #公司经度
+ companyLatitude : #公司纬度
+ cityCode : 110100 #城市代码
+ channel : 1 #渠道 1 蘑菇APP、4易车APP、5蘑菇养车公众号、11易鑫车主服务公众号、12懒人用车公众号、13易鑫车服公众号
+
+ #洗车商户列表，从微信公众号进入没有cityCode字段
+ QZXCWAUgetMerchantList02 :
+   pageNumber: 1 #页数
+   pageSize : 20 #每页条数
+   longitude : 116.32240295410156 #当前位置的经度
+   latitude : 39.93478775024414 #当前位置的纬度
+   homeLongitude : #家经度
+   homeLatitude : #家纬度
+   companyLongitude : #公司经度
+   companyLatitude : #公司纬度
+   channel : 1 #渠道 1 蘑菇APP、4易车APP、5蘑菇养车公众号、11易鑫车主服务公众号、12懒人用车公众号、13易鑫车服公众号
+
+ #洗车商户列表，微信公众号获取不到经纬度，接口按当前IP转换成经纬度计算距离
+ QZXCWAUgetMerchantList03 :
+  pageNumber: 1 #页数
+  pageSize : 20 #每页条数
+  longitude :  #当前位置的经度
+  latitude :  #当前位置的纬度
+  homeLongitude : #家经度
+  homeLatitude : #家纬度
+  companyLongitude : #公司经度
+  companyLatitude : #公司纬度
+  channel : 1 #渠道 1 蘑菇APP、4易车APP、5蘑菇养车公众号、11易鑫车主服务公众号、12懒人用车公众号、13易鑫车服公众号
+
+#搜索洗车商户列表
+QZXCWAUsearchMerchantList :
+  pageNumber : 1 #页码
+  pageSize : 10 #每页条数
+  longitude :  #经度
+  latitude :  #纬度
+  searchContent : 秦振霞 #搜索内容
+  channel : 1 #渠道
+
+#搜索洗车商户列表，搜索结果少于3条，有5条推荐数据
+QZXCWAUsearchMerchantList01 :
+  pageNumber : 1 #页码
+  pageSize : 10 #每页条数
+  longitude :  #经度
+  latitude :  #纬度
+  searchContent :  北运河西地铁站 #搜索内容
+  channel : 1 #渠道
+
+#搜索洗车商户列表，搜索无结果，有10条推荐数据
+QZXCWAUsearchMerchantList02 :
+  pageNumber : 1 #页码
+  pageSize : 10 #每页条数
+  longitude :  #经度
+  latitude :  #纬度
+  searchContent : 111 #搜索内容
+  channel : 1 #渠道
+
+#搜索洗车商户列表，根据shopAddr搜索结果
+QZXCWAUsearchMerchantList03 :
+  pageNumber : 1 #页码
+  pageSize : 10 #每页条数
+  longitude :  #经度
+  latitude :  #纬度
+  searchContent : 知春路 #搜索内容
+  channel : 1 #渠道
+
+#获取搜索记录列表，0:洗车
+QZXCWAUgetSearchHistory :
+ type : 0
+ channelId : 1 #渠道 1 蘑菇APP、4易车APP、5蘑菇养车公众号、11易鑫车主服务公众号、12懒人用车公众号、13易鑫车服公众号
+#获取搜索记录列表，1：保养
+QZXCWAUgetSearchHistory01 :
+ type : 1
+ channelId : 1 #渠道 1 蘑菇APP、4易车APP、5蘑菇养车公众号、11易鑫车主服务公众号、12懒人用车公众号、13易鑫车服公众号
+
+  #----------------------------加油站商户端APP接口PrivilegeRefuelMerchant------------------
+#版本信息-获取指定版本信息
+PRMversionDetail :
+  versionId : 2
+#语言设置-加油站
+PRMupdateMerchantId :
+  merchantId : 74 #商户id
+#语言设置-推送registrationId
+PRMsetRegistrationId :
+  registrationId : 190e35f7e01da6ad44b #极光推送id
+#语言设置-修改
+PRMupdateByUser :
+  num : 3 #次数
+  status : 0 #0开1关
+  merchantsId : 74 #设置选择的商户id
+#语言设置-修改，关闭语音设置
+PRMupdateByUser01 :
+  num : 3 #次数
+  status : 1 #0开1关
+  merchantsId : 74 #设置选择的商户id
+#订单-列表
+PRMlist :
+  page : 1
+  size : 10
+#----------------------违章查询接口QueryTrafficViolations------------------------
+#违章查询-添加车辆-车机接口
+QTVaddAndQueryCheJiPeccancyInfo :
+  carType : "02"
+  carNo : "豫D9G018"
+  engineNo : 3640922
+  frameNo : LVSHCFDB7EE745351
+  fromType : 1
+  logoUrl :
+#违章查询-添加车辆-车机接口,添加重复车辆信息
+QTVaddAndQueryCheJiPeccancyInfo01 :
+  carType : "02"
+  carNo : "豫D9G018"
+  engineNo : 3640922
+  frameNo : LVSHCFDB7EE745351
+  fromType : 1
+  logoUrl :
+#违章查询-添加车辆-车机接口,车牌号相同，车架号、发动机号不同
+QTVaddAndQueryCheJiPeccancyInfo02 :
+  carType : "02"
+  carNo : "豫D9G018"
+  engineNo : 181292064
+  frameNo : LSGKE5411JW272151
+  fromType : 1
+  logoUrl :
+#违章查询-添加车辆-车机接口,车牌号不同，车架号、发动机号相同
+QTVaddAndQueryCheJiPeccancyInfo03 :
+  carType : "02"
+  carNo : "豫A027LP"
+  engineNo : 3640922
+  frameNo : LVSHCFDB7EE745351
+  fromType : 1
+  logoUrl :
+#违章查询-添加车辆-车机接口,车牌号不同，车架号、发动机号相同
+QTVaddAndQueryCheJiPeccancyInfo04 :
+  carType : "02"
+  carNo : "豫A027LP"
+  engineNo : 181292064
+  frameNo : LVSHCFDB7EE745351
+  fromType : 1
+  logoUrl :
+#违章查询-添加车辆-车机接口,发动机号不满17位
+QTVaddAndQueryCheJiPeccancyInfo05 :
+  carType : "02"
+  carNo : "豫A027LP"
+  engineNo : 181292064
+  frameNo : LVSHCFDB7EE7
+  fromType : 1
+  logoUrl :
+#违章查询-添加车辆-车机接口,车类型cartype错误
+QTVaddAndQueryCheJiPeccancyInfo06 :
+  carType : "01"
+  carNo : "豫A027LP"
+  engineNo : 181292064
+  frameNo : LSGKE5411JW272151
+  fromType : 1
+  logoUrl :
+#违章查询-添加车辆-车机接口,车牌号的地区不正确
+QTVaddAndQueryCheJiPeccancyInfo07 :
+  carType : "02"
+  carNo : "京A027LP"
+  engineNo : 181292064
+  frameNo : LSGKE5411JW272151
+  fromType : 1
+  logoUrl :
+#违章查询-查询并更新车辆违章信息--车机接口
+QTVqueryAndUpdateCheJiPeccancyInfo :
+ carType: "02"
+ carNo: "豫D9G018"
+ engineNo: 3640922
+ frameNo: LVSHCFDB7EE745351
+ pageNum: 1
+ pageSize: 5
+#----------------------罚单代缴PaymentOfTicket------------------------
+#查询罚单详情接口，验证罚单号在第三方查不到，前四位查不到城市
+POTdetail :
+ ticketNo : 6745677678886578
+#查询罚单详情接口，验证罚单号在第三方查不到，前四位能查到，对应城市没有商户，商户不存在
+POTdetail01 :
+ ticketNo : 4101289393938484
+#查询罚单详情接口，验证罚单编号在第三方查不到，前四位能查到，对应城市有商户
+POTdetail02 :
+ ticketNo : 4116288283838393
+#查询罚单详情接口，验证罚单编号在第三方能查到，前四位查不到
+POTdetail03:
+ ticketNo:
+#查询罚单详情接口，验证罚单编号在第三方能查到，前四位能查到，商户不存在
+POTdetail04:
+ ticketNo:
+#查询罚单详情接口，验证罚单编号在第三方能查到，前四位能查到，商户存在
+POTdetail05:
+ ticketNo:
+#----------------------------洗车保养-------------------------
+
+WUSearchMerchantList :
+  pageNumber : 1
+  pageSize : 5
+  longitude : '39.9046900000'
+  latitude : '116.4071700000'
+#  homeLongitude
+#  homeLatitude
+#  companyLongitude
+#  companyLatitude
+WUGetActivityList :
+  businessLine : 0 #0:洗车；1：保养
+  showPosition : 0 #0顶部，1中间，2底部，3左侧，4右侧
+  cityCode : 0
+  size : 100
+WUSearchMerchantList01 :
+   pageNumber : 1
+   pageSize : 5
+   longitude : '39.9046900000'
+   latitude : '116.4071700000'
+   searchContent : "河南省"
+WUGoodsDetail :
+  id : 16

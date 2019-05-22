@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<suite name="测试报告">
+    <test name="测试方法">
+        <classes>
+            <!-- 特权加油商户端PrivilegeRefuelMerchant类的测试报告-->
+            <class name="com.yixin.test.PrivilegeRefuelMerchant">
+                <methods>
+                    <include name="testPrivilegeRefuelMerchant002"/>
+                    <include name="testPrivilegeRefuelMerchant003"/>
+                    <include name="testPrivilegeRefuelMerchant004"/>
+                    <include name="testPrivilegeRefuelMerchant005"/>
+                    <include name="testPrivilegeRefuelMerchant006"/>
+                    <include name="testPrivilegeRefuelMerchant007"/>
+                    <include name="testPrivilegeRefuelMerchant00701"/>
+                    <include name="testPrivilegeRefuelMerchant008"/>
+                    <include name="testPrivilegeRefuelMerchant009"/>
+                    <include name="testPrivilegeRefuelMerchant010"/>
+                </methods>
+            </class>
+            <!--违章查询QueryTrafficViolations类的测试报告-->
+            <class name="com.yixin.test.QueryTrafficViolations">
+                <methods>
+                    <include name="testQueryTrafficViolations001"/>
+                    <include name="testQueryTrafficViolations00101"/>
+                    <include name="testQueryTrafficViolations00102"/>
+                    <include name="testQueryTrafficViolations00103"/>
+                    <include name="testQueryTrafficViolations00104"/>
+                    <include name="testQueryTrafficViolations00105"/>
+                    <include name="testQueryTrafficViolations00106"/>
+                    <include name="testQueryTrafficViolations00107"/>
+                    <include name="testQueryTrafficViolations003"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.yixin.testreport.ExtentTestNGIReporterListener"/>
+    </listeners>
+
+</suite>
