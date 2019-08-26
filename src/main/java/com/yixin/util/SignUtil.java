@@ -19,6 +19,7 @@ import java.util.*;
  * @author wangzhiyuan
  * @since 2017/12/17
  * 把登录请求参数按照顺序生成签名，生成sig字段值
+ * 蘑菇智行app登录获取签名方法
  */
 
 public class SignUtil {

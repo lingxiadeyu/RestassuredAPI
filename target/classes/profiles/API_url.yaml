@@ -101,3 +101,7 @@ WUReduceStock : /stock/reduceStock
 WURevertStock : /stock/revertStock
 #组合商品-查询可替换商品列表
 WUGetAlternativeList : /goods/getAlternativeList
+
+#-----------------------------OpenAPI---------------------------------
+#订单详情接口
+OAOGget : /api/order/get

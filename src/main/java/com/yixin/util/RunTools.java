@@ -47,6 +47,15 @@ public class RunTools {
                 .get(readConfigFiles.findUrl(Url));
         return response;
     }
+    //传参，不校验登录信息的get接口
+    public Response runGetApi(String Url,String param){
+        Response response = given()
+                .config(RestAssured.config().jsonConfig(jsonConfig().numberReturnType(BIG_DECIMAL)))
+                .params(readConfigFiles.findGetPara(param))
+                .when()
+                .get(readConfigFiles.findUrl(Url));
+        return response;
+    }
     //传参且数据依赖、get方法封装
     public Response runGetApiAndDepend(String Url,Map param,String testLoginpara){
         Response response = given()
@@ -72,6 +81,18 @@ public class RunTools {
     public Response runPostApi(String Url,String param,String testLoginpara){
         Response response = given()
                 .header("token", account.getTokenAPP(testLoginpara))
+                .contentType("application/json;charset=UTF-8")
+                .config(RestAssured.config().jsonConfig(jsonConfig().numberReturnType(BIG_DECIMAL)))
+                .body(readConfigFiles.findPostPara(param))
+//                .params(readConfigFiles.findGetPara(param))
+                .when()
+                .post(readConfigFiles.findUrl(Url));
+
+        return response;
+    }
+    //传参、不校验登录信息的post方法封装
+    public Response runPostApi(String Url,String param){
+        Response response = given()
                 .contentType("application/json;charset=UTF-8")
                 .config(RestAssured.config().jsonConfig(jsonConfig().numberReturnType(BIG_DECIMAL)))
                 .body(readConfigFiles.findPostPara(param))

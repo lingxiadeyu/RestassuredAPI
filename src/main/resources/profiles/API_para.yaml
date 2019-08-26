@@ -292,3 +292,9 @@ WUSearchMerchantList01 :
    searchContent : "河南省"
 WUGoodsDetail :
   id : 16
+
+#-----------------------------OpenAPI---------------------------------
+#订单详情接口
+OAOGget :
+  orderId : "15105491297"
+  _appid : "aaa"

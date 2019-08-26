@@ -22,6 +22,7 @@ testLoginpara8767 :
   lat : "39.9683"
   apMac : "62:f6:77:ac:c8:e4"
 
+
 #----------------------------加油卡充值-FuelCard---------------
 #H5-加油卡价格配置
 FCpriceList :
@@ -291,3 +292,9 @@ WUSearchMerchantList01 :
    searchContent : "河南省"
 WUGoodsDetail :
   id : 16
+
+#-----------------------------OpenAPI---------------------------------
+#订单详情接口
+OAOGget :
+  orderId : "15105491297"
+  _appid : "aaa"
